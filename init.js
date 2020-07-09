@@ -4,15 +4,15 @@ const fs = require('fs');
 fs.writeFileSync(
   '.prettierrc.js',
   'module.exports = {\n' +
-  '  singleQuote: true\n' +
-  '}\n'
+  '  singleQuote: true,\n' +
+  '};\n'
 )
 
 fs.writeFileSync(
   '.eslintrc.js',
   'module.exports = {\n' +
-  '  extends: \'royso\'\n' +
-  '}\n'
+  '  extends: \'royso\',\n' +
+  '};\n'
 )
 
 fs.writeFileSync(
