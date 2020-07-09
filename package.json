@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-royso",
+  "version": "1.0.0",
+  "description": "my own private eslint preset",
+  "main": "index.js",
+  "author": "Roy Sommer",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.6.0",
+    "@typescript-eslint/parser": "^3.6.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  },
+  "bin": {
+    "init-royso-preset": "init.js"
+  }
+}
