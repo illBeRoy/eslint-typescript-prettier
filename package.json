@@ -16,6 +16,6 @@
     "prettier": "^2.0.5"
   },
   "bin": {
-    "init-royso-preset": "init.js"
+    "init-eslint-preset": "init.js"
   }
 }
