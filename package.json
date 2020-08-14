@@ -1,5 +1,5 @@
 {
-  "name": "@illberoy/eslint-config",
+  "name": "@illberoy/eslint-config-royso",
   "version": "1.0.0",
   "description": "my own private eslint preset",
   "main": "index.js",
