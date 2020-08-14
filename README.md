@@ -8,7 +8,7 @@ This is the eslint preset that I use for my own projects. It contains the follow
 
 ## Usage
 ### Installation
-Install by running the following command:
+Install this package directly from github by running the following command:
 ```sh
 npm install -D illberoy/eslint-config
 ```
