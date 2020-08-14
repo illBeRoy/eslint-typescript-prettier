@@ -21,7 +21,7 @@ yarn add -D illberoy/eslint-config
 ### Bootstrapping
 To get started, simply run the following command:
 ```sh
-npx init-eslint-preset
+npx init-eslint
 ```
 
 That's it! Your project is all set up and good to go.
