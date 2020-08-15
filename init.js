@@ -11,7 +11,7 @@ fs.writeFileSync(
 fs.writeFileSync(
   '.eslintrc.js',
   'module.exports = {\n' +
-  '  extends: \'royso\',\n' +
+  '  extends: \'typescript-prettier\',\n' +
   '};\n'
 )
 
